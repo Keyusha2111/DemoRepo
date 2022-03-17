@@ -5,4 +5,8 @@ public class HomePage {
 	public void homePage() {
 		System.out.println("Inside home page");
 	}
+	
+	public HomePage() {
+		
+	}
 }
